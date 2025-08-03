@@ -37,7 +37,9 @@ This project focuses on detecting fraudulent transactions using machine learning
 
 ## 🚀 Workflow
 
-![Workflow Diagram](assets/diagram-Workflow/Credit%20Card%20Fraud%20Detection%20Workflow.svg)
+<p align="center">
+  <img src="assets/diagram-Workflow/Credit%20Card%20Fraud%20Detection%20Workflow.svg" alt="Workflow Diagram" />
+</p>
 
 1. **Data Preprocessing**
    - Feature selection and scaling
